@@ -15,6 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeMedicamentos.Infr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeMedicamentos.WebApp", "ControleDeMedicamentos.WebApp\ControleDeMedicamentos.WebApp.csproj", "{D22BEAC6-0375-4AD0-AD24-00C87E6EB6C8}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +34,7 @@ Global
 		{D22BEAC6-0375-4AD0-AD24-00C87E6EB6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D22BEAC6-0375-4AD0-AD24-00C87E6EB6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D22BEAC6-0375-4AD0-AD24-00C87E6EB6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +43,7 @@ Global
 		{36C786D4-BBE9-4401-92AF-82D82756C735} = {4A8A3214-2F4E-4BA4-9714-ADE277E884B3}
 		{100D9BBA-5EA5-4C14-BAB1-6DB7A80B0166} = {52A173F6-946B-452A-AE98-0321683AE878}
 		{D22BEAC6-0375-4AD0-AD24-00C87E6EB6C8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B62922BB-A0ED-4BAD-ABFD-0DF60FBDEC9F}
