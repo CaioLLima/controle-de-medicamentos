@@ -11,7 +11,7 @@ public class Program
         // Injeção de dependências criadas por nós
         builder.Services.AddCamadaInfraestrutura(builder.Configuration);
 
-        builder.Services.AddSerilogConfig(builder.Logging, builder.Configuration);
+        //builder.Services.AddSerilogConfig(builder.Logging, builder.Configuration);
 
         // Injeção de dependências da Microsoft.
         builder.Services.AddControllersWithViews();
